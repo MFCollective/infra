@@ -1,0 +1,5 @@
+name = "www-redirector"
+type = "javascript"
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
+workers_dev = false
+compatibility_date = "2025-08-04"
